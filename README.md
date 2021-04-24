@@ -11,3 +11,5 @@ y luego deben correr la app con node
 ```
 node app.js
 ```
+
+Esta app guarda todas las tareas en un archivo json, cada que vez que cierres la consola o termines la ejecucion del programa mantendras tus tareas guardadas
