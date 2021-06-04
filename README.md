@@ -1,4 +1,4 @@
-# toDoList-Node.js
+# To Do List with Node.js
 
 Esta es una app realizada para consola, para poder usarla deben instalar las dependencias
 
